@@ -18,6 +18,13 @@
 - https://cameronshum.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cameronshum&repo=web2" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cameronshum&repo=shopify-frontend-challenge-2021" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cameronshum&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
