@@ -3,8 +3,7 @@
 ## What I'm up to:
 🔭 I'm working on:
 - Beating Google's Lighthouse score
-- Creating a status page for my EC2 instance
-- Building a CI/CD pipeline from scratch
+- Making Spotify better
 
 :books: I'm Learning:
 - About [Server Components](https://medium.com/better-programming/the-future-of-react-server-components-90f6e3e97c8a)
