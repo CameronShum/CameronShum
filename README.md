@@ -2,11 +2,9 @@
 
 ## What I'm up to:
 🔭 I'm working on:
-- Beating Google's Lighthouse score
 - Making Spotify better
-
-:books: I'm Learning:
-- About [Server Components](https://medium.com/better-programming/the-future-of-react-server-components-90f6e3e97c8a)
+- Revamping my personal website to be more modern
+- Using ✨shiny✨ new tools like Bun
 
 💬 I'm looking to work on:
 - High performance data-driven web apps
